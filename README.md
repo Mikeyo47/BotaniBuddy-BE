@@ -1,8 +1,7 @@
 # BotaniBuddy-BE
 
 This is a group project designed and coded by students at Northcoders. 
-The link to the Front End project can be found here: https://github.com/rubyrubyruby02/BotaniBuddy-FE
-
+The link to the Front End project can be found [here](https://github.com/Mikeyo47/BotaniBuddy-FE).
 Tech stack:  MongoDB, Express, Node.JS, Axios
 
 # Endpoints: 
